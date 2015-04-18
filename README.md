@@ -7,9 +7,11 @@ __mvtabs__ is a chrome extension that allows moving the active tab via keyboard 
 ## Installing
 
 __From the Chrome Web Store__
-You can install directly from the [Chrome Web Store](https://chrome.google.com/webstore/detail/mvtab/fmboeebjnlplbcdfmpjcghaemklppehd)
+
+You can install directly from the [Chrome Web Store](https://chrome.google.com/webstore/detail/mvtab/fmboeebjnlplbcdfmpjcghaemklppehd).
 
 __From the source files__
+
 Clone the repository, navigate to `chrome://extensions/`, select "Load Unpacked Extension…" and open the `mvtab.chrome`.
 
 ## Default shortcuts:
