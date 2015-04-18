@@ -1,0 +1,30 @@
+{
+	"manifest_version": 2,
+	"name": "mvtabs",
+	"description": "Move tabs left and right with a keyboard shortcut",
+	"version": "0.1",
+	"background": {
+		"scripts": [
+			"background.js"
+		],
+		"persistent": false
+	},
+	"commands": {
+		"move-tab-left": {
+			"suggested_key": {
+				"default": "Ctrl+Shift+Left",
+				"mac": "MacCtrl+Shift+Left"
+			},
+			"description": "Move the current tab left"
+		},
+		"move-tab-right": {
+			"suggested_key": {
+				"default": "Ctrl+Shift+Right",
+				"mac": "MacCtrl+Shift+Right"
+			},
+			"description": "Move the current tab right"
+		}
+	},
+	"icons": {},
+	"web_accessible_resources": []
+}
