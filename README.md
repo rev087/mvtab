@@ -2,7 +2,7 @@
 
 __mvtabs__ is a chrome extension that allows moving the active tab via keyboard shortcuts:
 
-![gif](/mvtab.gif?raw=true "The extension in action)
+![gif](mvtab.gif?raw=true)
 
 
 ## Default shortcuts:
